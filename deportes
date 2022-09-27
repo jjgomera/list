@@ -214,7 +214,7 @@ acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="Varios" tvg-id="Real Madrid TV - 1080", Real Madrid TV - 1080
-Acestream://d644f9276c204882ccc4e80cc26f7986830be8
+Acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="Varios" tvg-id="Barça Tv", Barça TV
 acestream://65c141632af256d70da66c767ba74360042b4396
@@ -231,8 +231,10 @@ acestream://a537d162cb8c5cfa72c09be09ecac69e2f2cc535
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Varios" tvg-id="Mega", Mega
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Varios" tvg-id="Toros", Toros
+Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
+
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
 Acestream://
-
 
 
