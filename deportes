@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/14/25/1/la-1-television-la-2-rtve-audiencia-png-favpng-ze8WFw5nxY4GAg7D0HcNZnqtc_t.jpg" group-title="Varios" tvg-id="La 1 HD", La 1 HD
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
@@ -267,7 +267,7 @@ Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="Varios" tvg-id="Esport3 ", Esport3
 Acestream://4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
 
-#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id="[US] NBA TV", [US] NBA TV
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/3890e6d3-e4fc-495a-8026-430c6920f0e7/402020467013211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios " tvg-id=" [US] NBA TV", [US] NBA TV
 Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="Varios" tvg-id="Redbull Tv", Redbull Tv
@@ -281,5 +281,4 @@ Acestream://d9e5e213121f3ea7fbcb216b48c306cd935b017a
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
 Acestream://
-
 
