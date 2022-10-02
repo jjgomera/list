@@ -1,4 +1,22 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
-Acestream://
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Top_Gun_Maverick-537976462-large.jpg" group-title="Peliculas" tvg-id="vacio", Top Gun: Maverick 
+magnet:?xt=urn:btih:F31BDB288C09BE7727189775582F016E70EE0258
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/American_Night-439048151-large.jpg" group-title="Peliculas" tvg-id="vacio", American Night
+magnet:?xt=urn:btih:BEE5C2C7E9D0951DF59A58FED7C01E1A367B7AB4
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fd5JMdWX0AAq4n6?format=jpg&name=large" group-title="Peliculas" tvg-id="vacio", Canallas
+magnet:?xt=urn:btih:82B65A4AA7D1D5BD3DDCEE804BD3E3A7CE9DC21A
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/D_nde_est_Anne_Frank-206666141-large.jpg" group-title="Peliculas" tvg-id="vacio", ¿Donde esta Anne Frank?
+magnet:?xt=urn:btih:FEAFE35C5D75F3CF9A13DECDB802FF55A20471D5
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_mundo_de_ayer-107873505-large.jpg" group-title="Peliculas" tvg-id="vacio", El Mundo de ayer
+magnet:?xt=urn:btih:223F506C8C5B515E13C79588E71AD025635B4EEB
+
+#EXTINF:-1 tvg-logo="https://static.filmin.es/images/media/41721/1/poster_0_3.png" group-title="Peliculas" tvg-id="vacio", El reino magico
+magnet:?xt=urn:btih:CF65146B5626E3FD8CE4879A929CF44D3EC4950A
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Final_del_camino-567644091-large.jpg" group-title="Peliculas" tvg-id="vacio", El final del camino
+magnet:?xt=urn:btih:210AF00B7EE88713EEB75D9A7BF329B1FBFBE572
