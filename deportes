@@ -15,13 +15,13 @@ acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 720", [ES] #Vamos - 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , 2000 [ ES] La Liga Tv Bar - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , [ ES] La Liga Tv Bar - 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 720" , 2000 [ ES] La Liga Tv Bar - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 720" , [ ES] La Liga Tv Bar - 720
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", 2001 [ES] La Liga - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ES] La Liga - 1080
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="La Liga - 720", [ES] La Liga - 720
@@ -54,7 +54,7 @@ Acestream:/
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm7.png" group-title="La Liga" tvg-id="La Liga 7 - 720", [ES] LaLiga 7 - 720
 Acestream:/
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ES] DAZN LaLiga - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ES] DAZN LaLiga - 1080
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 
  #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN La Liga - 720", [ES] DAZN LaLiga - 720
@@ -279,7 +279,7 @@ Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="Varios" tvg-id="Redbull Tv", Redbull Tv
 Acestream://9c9bdd6d153309fef289b377f2eadaa5a2a224c4
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fight.png" group-title="Varios" tvg-id="Deporte de Lucha", Deporte de Lucha
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fight.png" group-title="Varios" tvg-id="Deporte de Lucha", Figth Sport
 Acestream://3143ba2254daa432ef9c28cdae6ca188eb2bc29a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="Varios" tvg-id="FightBox", FightBox
