@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
+#EXTM3U 
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/14/25/1/la-1-television-la-2-rtve-audiencia-png-favpng-ze8WFw5nxY4GAg7D0HcNZnqtc_t.jpg" grupo- title="Varios" tvg-id="La 1 HD", 0001 La 1 
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
@@ -6,64 +6,64 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="La 2 HD", 0002 La 2
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", #0
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ES] #0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 1080", #Vamos - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 1080", [ES] #Vamos - 1080
 acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 720", #Vamos - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 720", [ES] #Vamos - 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , 2000 La Liga Tv Bar - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , 2000 [ ES] La Liga Tv Bar - 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 720" , 2000 La Liga Tv Bar - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 720" , 2000 [ ES] La Liga Tv Bar - 720
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", 2001 La Liga - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", 2001 [ES] La Liga - 1080
 acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="La Liga - 720", 2001 La Liga - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="La Liga - 720", [ES] La Liga - 720
 acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm1.png" group-title="La Liga" tvg-id="La Liga 1 - 1080", 2002 La Liga 1 - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm1.png" group-title="La Liga" tvg-id="La Liga 1 - 1080", [ES] La Liga 1 - 1080
 acestream://
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm1.png" group-title="La Liga" tvg-id="La Liga 1 - 720", 2002 LaLiga 1 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm1.png" group-title="La Liga" tvg-id="La Liga 1 - 720", [ES] LaLiga 1 - 720
 Acestream://
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="La Liga 2 - 1080", 2003 La Liga 2 - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="La Liga 2 - 1080", [ES] La Liga 2 - 1080
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="La Liga 2 - 720", 2003 La Liga 2 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="La Liga" tvg-id="La Liga 2 - 720", [ES] La Liga 2 - 720
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" group-title="La Liga" tvg-id="La Liga 3 - 720", 2004 La Liga 3 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" group-title="La Liga" tvg-id="La Liga 3 - 720", [ES] La Liga 3 - 720
 Acestream:/
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" group-title="La Liga" tvg-id="La Liga 4 - 720", 2005 LaLiga 4 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" group-title="La Liga" tvg-id="La Liga 4 - 720", [ES] LaLiga 4 - 720
 Acestream:/
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" group-title="La Liga" tvg-id="La Liga 5 - 720", 2006 La Liga 5 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" group-title="La Liga" tvg-id="La Liga 5 - 720", [ES] La Liga 5 - 720
 Acestream:/
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm6.png" group-title="La Liga" tvg-id="La Liga 6 - 720", 2007 LaLiga 6 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm6.png" group-title="La Liga" tvg-id="La Liga 6 - 720", [ES] LaLiga 6 - 720
 Acestream:/
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm7.png" group-title="La Liga" tvg-id="La Liga 7 - 720", 2007 LaLiga 7 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm7.png" group-title="La Liga" tvg-id="La Liga 7 - 720", [ES] LaLiga 7 - 720
 Acestream:/
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", 2008 DAZN LaLiga - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ES] DAZN LaLiga - 1080
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
 
- #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN La Liga - 720", 2008 DAZN LaLiga - 720
+ #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN La Liga - 720", [ES] DAZN LaLiga - 720
 acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Dazn" tvg-id="DAZN La Liga 2 - 1080", 2009 DAZN LaLiga 2 - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Dazn" tvg-id="DAZN La Liga 2 - 1080", [ES] DAZN LaLiga 2 - 1080
 Acestream://
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Champions" tvg-id="Liga de Campeones - 1080", Liga de Campeones - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Champions" tvg-id="Liga de Campeones - 1080", [ES] Liga de Campeones - 1080
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Champions" tvg-id="Liga de Campeones - 720", Liga de campeones - 720
