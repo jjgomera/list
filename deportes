@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://img.favpng.com/14/25/1/la-1-television-la-2-rtve-audiencia-png-favpng-ze8WFw5nxY4GAg7D0HcNZnqtc_t.jpg" grupo- title="Varios" tvg-id="La 1 HD", 0001 La 1 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" grupo- title="Varios" tvg-id="La 1 HD", 0001 La 1 
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="La 2 HD", 0002 La 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="Varios" tvg-id="La 2 HD", 0002 La 2
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
@@ -324,10 +324,10 @@ Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ff0aacfd-d99b-45c1-a156-97ffc8a9491c/402544404006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ENG] Sky Sports Maint Event
 Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", [DEU] DAZN 1 Bar
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="Varios" tvg-id="vacio", [DEU] DAZN 1 Bar
 Acestream://897e73c9d578848f596585314ecb9ae067c0e229
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", [DEU] DAZN 2 Bar
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" group-title="Varios" tvg-id="vacio", [DEU] DAZN 2 Bar
 Acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="vacio", [ROM] Digi Sport 1
