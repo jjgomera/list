@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Top_Gun_Maverick-537976462-large.jpg" group-title="Peliculas" tvg-id="vacio", Top Gun: Maverick 
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Top_Gun_Maverick-537976462-large.jpg" group-title="Peliculas" tvg-id="vacio", Top Gun: Maverick 
 magnet:?xt=urn:btih:F31BDB288C09BE7727189775582F016E70EE0258
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/American_Night-439048151-large.jpg" group-title="Peliculas" tvg-id="vacio", American Night
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/American_Night-439048151-large.jpg" group-title="Peliculas" tvg-id="vacio", American Night
 magnet:?xt=urn:btih:BEE5C2C7E9D0951DF59A58FED7C01E1A367B7AB4
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Fd5JMdWX0AAq4n6?format=jpg&name=large" group-title="Peliculas" tvg-id="vacio", Canallas
