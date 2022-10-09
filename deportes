@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png?w=96&h=72&tok=b65ce3" group-title="Varios" tvg-id="La 1 HD", 0001 La 1 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" grupo- title="Varios" tvg-id="La 1 HD", 0001 La 1 
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="Varios" tvg-id="La 2 HD", 0002 La 2
@@ -222,10 +222,10 @@ Acestream://5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="M+ Deportes" tvg-id="M+ Deportes 7 - 720", [ ESP] M+ Deportes 7 - 720
 Acestream://
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="M+ Deportes" tvg-id="M+ Deportes 8 - 1080", [ ESP] M+ Deportes 8 - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem8.png" group-title="M+ Deportes" tvg-id="M+ Deportes 8 - 1080", [ ESP] M+ Deportes 8 - 1080
 Acestream://
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="M+ Deportes" tvg-id="M+ Deportes 8 - 720", [ ESP] M+ Deportes 8 - 720
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem8.png" group-title="M+ Deportes" tvg-id="M+ Deportes 8 - 720", [ ESP] M+ Deportes 8 - 720
 Acestream://b779e6056975e3682a804d47cbd5cc806217f64d
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 1080", [ ESP] Liga Smartbank - 1080
@@ -437,4 +437,3 @@ acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
 Acestream://
-
