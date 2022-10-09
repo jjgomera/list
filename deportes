@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" grupo- title="Varios" tvg-id="La 1 HD", 0001 La 1 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", 0001 La 1 
 https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="Varios" tvg-id="La 2 HD", 0002 La 2
@@ -262,7 +262,7 @@ acestream://0a94ca1f63e144862248f4f00ea9044f5a5d0971
 acestream://49c35606668ebf7a895434ec4c9243a163d87718
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="Varios" tvg-id="Real Madrid TV - 1080", [ ESP] Real Madrid Televisión - 1080
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="Varios" tvg-id="Barça Tv", [ ESP] Barça TV
 acestream://65c141632af256d70da66c767ba74360042b4396
@@ -330,7 +330,7 @@ acestream://8d065adeb9603cb93a080930a45eb5bd457483c6
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0e0f1bb3-de7e-4fb2-9090-644b36bcd095/402084248030211.png?to=crop&type=webp&r=540x405&q=85" group-title="Argentina" tvg-id="ESPN", [ARG] ESPN 3
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
-#EXTINF:-1 tvg-logo="" group-title="Argentina" tvg-id="vacio", [ARG] Fox Sport 3
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/70b50d1b-f1b4-49d0-a1f1-0c96ea82682e/402972075008211.png?to=crop&type=webp&r=540x405&q=85" group-title="Argentina" tvg-id="vacio", [ARG] Fox Sport 3
 acestream://9a8c5485a38e9399e81b3eed23e588946946039f
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="beIN Sport ñ", [USA] beIN SPORT ñ
@@ -342,10 +342,10 @@ Acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/redbulltv.png" group-title="Estados Unidos" tvg-id="Redbull Tv", [USA] Redbull Tv
 Acestream://9c9bdd6d153309fef289b377f2eadaa5a2a224c4
 
-#EXTINF:-1 tvg-logo="" group-title="Estados Unidos" tvg-id="vacio", [USA] Fox Sport1
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/a79c4fdf-3dd1-4e5e-9e36-ab9fb7ebd75b/402972136017211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="vacio", [USA] Fox Sport1
 Acestream://c9c062941fbecb16ce29437f346ea7177d720898
 
-#EXTINF:-1 tvg-logo="" group-title="Estados Unidos" tvg-id="vacio", [USA] Fox Sport2
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/9ddae45c-f8d4-4d1c-80f9-1c7f56468882/402972108027211.png?to=crop&type=webp&r=540x405&q=85" group-title="Estados Unidos" tvg-id="vacio", [USA] Fox Sport2
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/d4d240bf-af32-4b68-9fc6-900c112dd2ce/402543242002211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] BT Sport1
@@ -369,7 +369,7 @@ Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ff0aacfd-d99b-45c1-a156-97ffc8a9491c/402544404006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="vacio", [ENG] Sky Sports Maint Event
 Acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
-#EXTINF:-1 tvg-logo="" group-title="Inglaterra" tvg-id="Inglaterra", [ENG] Sky Sports Arena
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/524ee9fd-1686-4973-b86e-6f30c6eb68f2/402972940025211.png?to=crop&type=webp&r=540x405&q=85" group-title="Inglaterra" tvg-id="Inglaterra", [ENG] Sky Sports Arena
 Acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="Alemania" tvg-id="vacio", [DEU] DAZN 1 Bar
@@ -378,8 +378,32 @@ Acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" group-title="Alemania" tvg-id="vacio", [DEU] DAZN 2 Bar
 Acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", [DEU] Sky Bundesliga 1
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/c6e08adf-ea98-47d0-b777-a51555de708b/402972962028211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Sky Sport Bundesliga 
 acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 1
+acestream://501141c649a2b78c4965cbf3257224181cc55072
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 2
+acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 3
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 4
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 5
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 6
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 7
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
+
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 8
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Rumania" tvg-id="vacio", [ROM] Digi Sport 1
 Acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
@@ -402,7 +426,7 @@ Acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/0f213d6c-36ba-48ba-b6f2-8fd9edc7f4f3/402545626005211.png?to=crop&type=webp&r=540x405&q=85" group-title="Polonia" tvg-id="vacio", [POL] Canal plus sport 3
 Acestream://3e87464ed8c42ed14464461ea08860a3040a8944
 
-#EXTINF:-1 tvg-logo="" group-title="Polonia" tvg-id="vacio", [POL] Extreme Sport
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/xtm.png" group-title="Polonia" tvg-id="vacio", [POL] Extreme Sport
 acestream://73ff07648e367efebd94636047b07625f664a082
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fightbox.png" group-title="Polonia" tvg-id="FightBox", [POL] FightBox
@@ -423,17 +447,21 @@ Acestream://54cbfaf8ad446499aae28ae50b512d95c263f811
 #EXTINF:-1 tvg-logo="" group-title="Francia" tvg-id="vacio", [FRA] Bein Sport 2
 Acestream://705e0086f2156e1d76609393666b95a5bd43bebb
 
-#EXTINF:-1 tvg-logo="" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Racing
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/9b899fab-9d20-45b3-9bc1-431efd0c7019/402978536009211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Racing
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
 
-#EXTINF:-1 tvg-logo="" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Select
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/cd3001ad-a9ec-45a2-a2bb-e965605d45ed/402978443025211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Select
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 
-#EXTINF:-1 tvg-logo="" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Voetbal
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/812ce6c4-9cb3-4007-a436-e9eecccc9fce/402978510026211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Voetbal
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 
-#EXTINF:-1 tvg-logo="" group-title="Brasil" tvg-id="vacio", [BRA] All Sports
-acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ed3eba7c-f0b1-4043-bb93-904f0da34bab/402985697007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Brasil" tvg-id="vacio", [BRA] All Sports
+acestream://e26a359efe269af158923a63d69884bfe12a33cc
+
+#EXTINF:-1 tvg-logo="" group-title="Colombia" tvg-id="vacio", [COL] Win Sports
+acestream://13051d29ab723d55caec5ccf223226f0350ebdf5
+
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
 Acestream://
