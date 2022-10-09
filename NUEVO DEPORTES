@@ -381,28 +381,29 @@ Acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/c6e08adf-ea98-47d0-b777-a51555de708b/402972962028211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Sky Sport Bundesliga 
 acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
 
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 1
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 1
 acestream://501141c649a2b78c4965cbf3257224181cc55072
 
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 2
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 2
 acestream://ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
 
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 3
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 3
+acestream://d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
 
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 4
+acestream://1fb794b1503c5955b75ea0106ee6360b80d78849
 
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 4
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 5
+acestream://428b92f3c71cd3cbf66ef6193808b39d16a52730
 
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 6
+acestream://14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
 
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 5
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 7
+acestream://ac839cda9709255c21a98af455731f037e77a9e4
 
-
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 6
-
-
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 7
-
-
-
+#EXTINF:-1 tvg-logo="https://cdn131.picsart.com/56d4857e-2b24-46e1-bb2e-c367397d9f63/402986087012211.png?to=crop&type=webp&r=540x405&q=85" group-title="Alemania" tvg-id="vacio", [DEU] Magenta Sport 8
+acestream://11c5823d4196a90b509f03df1fe78e13cfbbb175
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ac742b0f-199e-4b13-af37-cbb19642c68a/402544722006211.png?to=crop&type=webp&r=540x405&q=85" group-title="Rumania" tvg-id="vacio", [ROM] Digi Sport 1
 Acestream://5de76e366b44da7f88363a74aa2fa1bef30395fe
@@ -455,8 +456,8 @@ acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
 #EXTINF:-1 tvg-logo="https://cdn131.picsart.com/812ce6c4-9cb3-4007-a436-e9eecccc9fce/402978510026211.png?to=crop&type=webp&r=540x405&q=85" group-title="Belgica" tvg-id="vacio", [BEL] Ziggo Sport Voetbal
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 
-#EXTINF:-1 tvg-logo="" group-title="Brasil" tvg-id="vacio", [BRA] All Sports
-acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/ed3eba7c-f0b1-4043-bb93-904f0da34bab/402985697007211.png?to=crop&type=webp&r=540x405&q=85" group-title="Brasil" tvg-id="vacio", [BRA] All Sports
+acestream://e26a359efe269af158923a63d69884bfe12a33cc
 
 #EXTINF:-1 tvg-logo="" group-title="Colombia" tvg-id="vacio", [COL] Win Sports
 acestream://13051d29ab723d55caec5ccf223226f0350ebdf5
