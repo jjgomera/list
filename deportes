@@ -265,7 +265,7 @@ acestream://49c35606668ebf7a895434ec4c9243a163d87718
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="Varios" tvg-id="Real Madrid TV", [ ESP] Real Madrid Televisión
-acestream://d644f9276c8c204882ccc4e80cc26f7986830be8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="Varios" tvg-id="Barça Tv", [ ESP] Barça TV
 acestream://65c141632af256d70da66c767ba74360042b4396
