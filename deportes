@@ -294,6 +294,9 @@ Acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Varios" tvg-id="Toros", [ ESP] Toros
 Acestream://1c23860f47c37595a322e07b5171098e2a3405b9
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Varios" tvg-id="Toros", [ ESP] Toros.
+http://s846397078.mialojamiento.es/wf9t/toro.php/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/esport3.png" group-title="Cataluña" tvg-id="Esport3 ", [CAT] Esport3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
 
