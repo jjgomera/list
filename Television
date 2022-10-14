@@ -1,0 +1,137 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve1.png" group-title="Varios" tvg-id="La 1 HD", 0001 La 1 HD
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="Varios" tvg-id="La 2 HD", 0002 La 2 HD
+https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo=" https://imagenes.atresplayer.com/atp /clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg " group-title="TDT" tvg-id="Antena 3 HD", 0003 Antena 3 HD
+http:// 99ab99.com:80/Veranew2701/TUzhu79ux9/25781
+
+#EXTINF:-1 tvg-logo=" https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg " group-title="TDT" tvg-id="Cuatro HD", 0004 Cuatro HD
+
+
+#EXTINF:-1 tvg-logo=" https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg " grupo -title="TDT" tvg-id="Telecinco HD", 0005 Telecinco HD
+http://venomtt.com:8000/50439554698660/93784340086574/236883
+
+#EXTINF:-1 tvg-logo=" https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg " group-title="TDT" tvg-id="La se", 0006 La Sexta HD
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/25780
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+#EXTINF:-1 tvg-logo=" https://www.giztele.com /wp-content/uploads/2020/08/la-resistencia.jpg " group-title="Movistar" tvg-id="Movistar Resistencia", Movistar Resistencia
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164752
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia. org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png " group-title="Movistar" tvg-id="Movistar Estrenos",Movistar Estrenos
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/25795
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/2560px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png " group-title="Movistar" tvg-id="Movistar Estrenos 2", Movistar Estrenos 2
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164749
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo. svg.png " group-title="Movistar" tvg-id="Movistar Acción", Movistar Acción
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/25791
+
+#EXTINF:-1 tvg-logo=" https:/ /upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png " group-title="Movistar" tvg-id="Movistar Comedia", Movistar Comedia
+http:/ /99ab99.com:80/Veranew2701/TUzhu79ux9/25794
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia. org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png " group-title="Movistar" tvg-id="Movistar Clásicos ", Movistar Clásicos
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621401.ts
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1200px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Drama", Movistar Drama
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/25790
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/640px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png " group-title="Movistar " tvg-id="Movistar Cine Ñ", Movistar Cine Ñ
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127680
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia /commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png " group-title="Movistar" tvg-id="Movistar Diseny+", Movistar Disney+
+http://ebest55.live:80/L4kLY2rBAb /VLUML3Dpdq/96838
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia /commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png " group-title="TDT" tvg-id="Dreamworks FHD", Dreamworks FHD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127797
+
+#EXTINF:-1 tvg-logo=" https://upload. wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/640px-Series_por_Movistar_Plus%2B_2022_logo.svg.png " group-title="Movistar" tvg-id="Movistar Series", Movistar Series
+http: //99ab99.com:80/Veranew2701/TUzhu79ux9/25792
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/205px-Serie_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Serie 2", Movistar Serie 2
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/164751
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=" https:// yt3.ggpht.com/ytc/AMLnZu-zdnIW7tLWOKXewm-pFth5gt6XniJWEvGYhqMqzs4=s900-ck-c0x00ffffff-no-rj " group-title="TDT" tvg-id="Fox FHD", Fox FHD
+http://sansat.net: grupo
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018 .svg " group-title="TDT" tvg-id="Comedy Central", Comedy Central
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/40661
+
+#EXTINF:-1 tvg-logo=" https://sincroguia-tv.expansion.com/uploads/images/a/x/n/axn.jpg " group-title="TDT" tvg-id="Axn HD ", Axn HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png " group-title="TDT" tvg-id ="AXN WHaithe", AXN WHITE 
+http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/96849
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png " group-title="TDT" tvg-id="HOLLYWOOD FHD", HOLLYWOOD FHD
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127693
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png " grupo -title="TDT" tvg-id="Caza y Pesca", Caza y Pesca
+http://99ab99.com:80/Veranew2701/TUzhu79ux9/25810
+
+#EXTINF:-1 tvg-logo=" https://www.iberaliago.com/static/images/logo/logo-vertical.png " título-grupo ="TDT" tvg-id="Iberalia TV", Iberalia Tv
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127728
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ng.png" group-title="Varios" tvg-id="National Geographic", National Geographic
+Acestream://d0c5c350d8c62f7b7aa2516646a7e6f42b6155d1
+
+#EXTINF:-1 tvg-logo=" https://upload. wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png " group-title="TDT" tvg-id="National Georaphic Wild",Comodín geográfico nacional
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127774
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/historia.png" group-title="Varios" tvg-id="Canal Historia", Historia
+Acestream://b899f725b8782aa263026b2bfbd43ee1e18482b6
+
+#EXTINF:-1 tvg-logo=" https://yt3.ggpht.com/ZH-FZJf7AV0T7nAK_OBw4QNSF-1G8rg1kAXjnxbnuKYWrVvK6XHA4knhE3fb-scy30E6PBwck=1m8scy30E6PBw-noff-0ff0ff-no " group-title="TDT" tvg-id="Canal Cocina", Canal Cocina
+http://sansat.net:25461/simon/Mo9nuj5f1qHJMmp0N/127777
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
