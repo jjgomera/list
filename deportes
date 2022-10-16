@@ -241,7 +241,7 @@ acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 720", [ ESP] Liga Smartbank M2 - 720
-acestream://
+http://127.0.0.1:6878/ace/r/61a21a17a906643bffe173bc0f9927b969e452e6/e4696d5a1544e3f6a99334b8eda4804a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 1080", [ ESP] Eurosport 1 - 1080
 acestream://40da37534656efcc6179c1b7693335d5e8212e43
