@@ -7,37 +7,37 @@ https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr.m3u8
 https://rtvelivestream.akamaized.net/segments/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 1080", [ ESP] #Vamos - 1080
-acestream://069431a1199eb2545a14c0a724095e57bdc58e9c
+http://127.0.0.1:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="#Vamos - 720", [ ESP] #Vamos - 720
-acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
+http://127.0.0.1:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , [ ESP] La Liga Tv Bar - 1080
-acestream://01b333b9369c662775902638ef8cffac346a0f61
+http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 720" , [ ESP] La Liga Tv Bar - 720
-acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
+http://127.0.0.1:6878/ace/getstream?id=fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080 Multiaudio
-acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175
+http://127.0.0.1:6878/ace/getstream?id=167e3b44a520cd76d4372f6d30fe6d7ccd524175
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 1080a
-acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
+http://127.0.0.1:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 720a
-acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
+http://127.0.0.1:6878/ace/getstream?id=df139bbcd7ae6825b46d5955c52d639f1215346a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 720b
-acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
+http://127.0.0.1:6878/ace/getstream?id=d8512e64f34a117afb656f5c66cf8d88023c9570
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 720c
-acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
+http://127.0.0.1:6878/ace/getstream?id=87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga" tvg-id="M+ LaLiga HD", [ ESP] La Liga - 720d
-acestream://66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
+http://127.0.0.1:6878/ace/getstream?id=66fce3f5d46225bc8e7e3ba5b45cfcc59aeac69f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm1.png" group-title="La Liga" tvg-id="La Liga 1 - 1080", [ ESP] La Liga 1 - 1080
 acestream://
@@ -477,3 +477,15 @@ acestream://13051d29ab723d55caec5ccf223226f0350ebdf5
 
 #EXTINF:-1 tvg-logo="" group-title="Vacio" tvg-id="vacio", vacio
 Acestream://
+
+
+
+
+
+
+
+
+
+
+
+http://127.0.0.1:6878/ace/getstream?id=
