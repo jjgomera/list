@@ -153,8 +153,11 @@ acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 12 - 720", [ ESP] Liga de Campeones 12 - 720
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080a
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080b
+http://127.0.0.1:6878/ace/r/61a21a17a906643bffe173bc0f9927b969e452e6/e4696d5a1544e3f6a99334b8eda4804a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 720
 acestream://9f27ea73230f9c65034601636dbfe39de43a8212
