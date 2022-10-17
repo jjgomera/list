@@ -30,3 +30,6 @@ http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/X/XXX_energy_drink-logo-06906D9923-seeklogo.com.png" group-title="Adultos" tvg-id="varios", varios
 https
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/playboy.png" group-title="Television" tvg-id="",  PLAYBOY
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/244340
+
