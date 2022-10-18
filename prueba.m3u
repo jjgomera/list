@@ -21,6 +21,64 @@ http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1148
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tvam.png" group-title="Television" tvg-id="",  Telemadrid HD
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/252719
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Canal Sur
+https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Canal Sur(2)
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Onda Cadiz TV
+https://adc-hls.flumotion.com/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", TV3
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", TV3(2)
+https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Canal33
+https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Canal33(2)
+https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Super3
+https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", Super3(2)
+https://directes-tv-es.ccma.cat/live-origin/super3-hls/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", TVG
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="", TVG 2
+https://amodino-crtvg.flumotion.com/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="Television" tvg-id="Mega HD",  Mega
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1156
 
@@ -51,7 +109,7 @@ http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1158
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes.png" group-title="Television" tvg-id="ESTRENOS HD",  Movistar Estrenos
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1164
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mes2.png" group-title="Television" tvg-id="M+ ESTRENOS 2", Movistar Estrenos 2
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="M+ ESTRENOS 2", Movistar Series 2
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1186
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mac.png" group-title="Television" tvg-id="M+ ACCION HD",  Movistar Accion
@@ -65,6 +123,11 @@ http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1171
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mse.png" group-title="Television" tvg-id="M+ SERIES HD",  Movistar Series
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1185
+
+
+#EXTINF:-1 tvg-logo="" group-title="Television" tvg-id="M+ ESTRENOS 2", Movistar Series 2
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1186
+
 
 
 
