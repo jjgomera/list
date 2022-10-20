@@ -1,0 +1,884 @@
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
+
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆PORTADA☆♛♛" tvg-logo="" group-title="♛TDT HD♛",♛♛☆PORTADA☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615855.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/La1.png" group-title="♛TDT HD♛",LA 1 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4735.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/La1.png" group-title="♛TDT HD♛",LA 1 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615859.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="STAR TVE ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="♛TDT HD♛",STAR TVE ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/197622.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="STAR TVE ᴴᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="♛TDT HD♛",STAR TVE ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615867.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/La2.png" group-title="♛TDT HD♛",LA 2 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4736.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/La2.png" group-title="♛TDT HD♛",LA 2 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615860.ts
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Antena3HD.png" group-title="♛TDT HD♛",ANTENA 3 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4737.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Antena3HD.png" group-title="♛TDT HD♛",ANTENA 3 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615861.ts
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 INTER ᵉˢᵖ ʰᵈ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Antena3HD.png" group-title="♛TDT HD♛",ANTENA 3 INTER ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/350928.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3 INTER ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Antena3HD.png" group-title="♛TDT HD♛",ANTENA 3 INTER ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615869.ts
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Cuatro.png" group-title="♛TDT HD♛",CUATRO ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4738.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Cuatro.png" group-title="♛TDT HD♛",CUATRO ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615862.ts
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Telecinco.png" group-title="♛TDT HD♛",TELECINCO ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4739.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Telecinco.png" group-title="♛TDT HD♛",TELECINCO ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615863.ts
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/LaSexta.png" group-title="♛TDT HD♛",LA SEXTA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4740.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/LaSexta.png" group-title="♛TDT HD♛",LA SEXTA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615864.ts
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/FDF.png" group-title="♛TDT HD♛",FDF ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/201044.ts
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/FDF.png" group-title="♛TDT HD♛",FDF ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615868.ts
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL PLAY ᵉˢᵖ ʰᵈ" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="♛TDT HD♛",GOL PLAY ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4742.ts
+#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL PLAY ᴴᵉᵛᶜ" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="♛TDT HD♛",GOL PLAY ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615870.ts
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TDP ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/Tdp_HD.png" group-title="♛TDT HD♛",TDP ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4743.ts
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TDP ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/Tdp_HD.png" group-title="♛TDT HD♛",TDP ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615871.ts
+#EXTINF:-1 tvg-id="mega.es" tvg-name="MEGA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/mega_hd.png" group-title="♛TDT HD♛",MEGA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194217.ts
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="MEGA ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/mega_hd.png" group-title="♛TDT HD♛",MEGA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615872.ts
+#EXTINF:-1 tvg-id="NEOX FHD" tvg-name="NEOX ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/NEOX.png" group-title="♛TDT HD♛",NEOX ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4744.ts
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/NEOX.png" group-title="♛TDT HD♛",NEOX ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615873.ts
+#EXTINF:-1 tvg-id="NOVA FHD" tvg-name="NOVA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Nova.png" group-title="♛TDT HD♛",NOVA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/201041.ts
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Nova.png" group-title="♛TDT HD♛",NOVA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615874.ts
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="DMAX ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/1280px-DMAX_HD.svg.png" group-title="♛TDT HD♛",DMAX ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/201042.ts
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="DMAX ᴴᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DMAX_HD.svg/1280px-DMAX_HD.svg.png" group-title="♛TDT HD♛",DMAX ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615875.ts
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE ᵉˢᵖ ʰᵈ" tvg-logo="http://fenix.4cloud.click:8080/images/dd51991a00f38280e7d40e28013e137f.png" group-title="♛TDT HD♛",BOM CINE ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/201048.ts
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE ᴴᵉᵛᶜ" tvg-logo="http://fenix.4cloud.click:8080/images/dd51991a00f38280e7d40e28013e137f.png" group-title="♛TDT HD♛",BOM CINE ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615877.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="A3SERIES ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/Atreseries_HD.png" group-title="♛TDT HD♛",A3SERIES ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4746.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="A3SERIES ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/Atreseries_HD.png" group-title="♛TDT HD♛",A3SERIES ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615876.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3 CINE ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Atrescine_logo.svg" group-title="♛TDT HD♛",A3 CINE ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624107.ts
+#EXTINF:-1 tvg-id="" tvg-name=" A3 CINE ᴴᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Atrescine_logo.svg" group-title="♛TDT HD♛", A3 CINE ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624113.ts
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="TVE 24H ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/24H.png" group-title="♛TDT HD♛",TVE 24H ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/201043.ts
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="TVE 24H ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/24H.png" group-title="♛TDT HD♛",TVE 24H ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615878.ts
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BeMad ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/BeMadHD.png" group-title="♛TDT HD♛",BeMad ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4745.ts
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BeMad ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/BeMadHD.png" group-title="♛TDT HD♛",BeMad ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615879.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆TDT SD☆♛♛" tvg-logo="https://www.kindpng.com/picc/m/471-4717343_tdt-9hd-tdt-tasmania-channel-hd-png-download.png" group-title="♛TDT HD♛",♛♛☆TDT SD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4747.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/La1.png" group-title="♛TDT HD♛",LA 1 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4748.ts
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/La1.png" group-title="♛TDT HD♛",LA 1 ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615880.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="STAR TVE ᵉˢᵖ ˢᵈ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="♛TDT HD♛",STAR TVE ᵉˢᵖ ˢᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615886.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="STAR TVE ᴿ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="♛TDT HD♛",STAR TVE ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615882.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE (INTERNACIONAL) ᵉˢᵖ ˢᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/562px-Logo_TVE-Internacional.svg.png" group-title="♛TDT HD♛",TVE (INTERNACIONAL) ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615856.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="TVE (INTERNACIONAL) ᴿ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/562px-Logo_TVE-Internacional.svg.png" group-title="♛TDT HD♛",TVE (INTERNACIONAL) ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615881.ts
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/La2.png" group-title="♛TDT HD♛",LA 2 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4749.ts
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="LA 2 ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/La2.png" group-title="♛TDT HD♛",LA 2 ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615883.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Antena3SD.png" group-title="♛TDT HD♛",ANTENA 3 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4750.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3 ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Antena3SD.png" group-title="♛TDT HD♛",ANTENA 3 ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615884.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3 INTER ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Antena3HD.png" group-title="♛TDT HD♛",ANTENA 3 INTER ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615887.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ANTENA 3 INTERᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Antena3HD.png" group-title="♛TDT HD♛",ANTENA 3 INTERᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615885.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/CuatroSD.png" group-title="♛TDT HD♛",CUATRO ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4751.ts
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/CuatroSD.png" group-title="♛TDT HD♛",CUATRO ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615888.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TelecincoSD.png" group-title="♛TDT HD♛",TELECINCO ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4752.ts
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TelecincoSD.png" group-title="♛TDT HD♛",TELECINCO ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615889.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/LaSextaSD.png" group-title="♛TDT HD♛",LA SEXTA ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4753.ts
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/LaSextaSD.png" group-title="♛TDT HD♛",LA SEXTA ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615890.ts
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="MEGA ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/MEGA.png" group-title="♛TDT HD♛",MEGA ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4754.ts
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="MEGA ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/MEGA.png" group-title="♛TDT HD♛",MEGA ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615891.ts
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TDP ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP3/tdp.png" group-title="♛TDT HD♛",TDP ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4756.ts
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TDP ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP3/tdp.png" group-title="♛TDT HD♛",TDP ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615892.ts
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/NEOX.png" group-title="♛TDT HD♛",NEOX ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4757.ts
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/NEOX.png" group-title="♛TDT HD♛",NEOX ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615893.ts
+#EXTINF:-1 tvg-id="fdftelecinco.es" tvg-name="FDF ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/FDF.png" group-title="♛TDT HD♛",FDF ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4758.ts
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/FDF.png" group-title="♛TDT HD♛",FDF ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615894.ts
+#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL PLAY ᵉˢᵖ ˢᵈ" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="♛TDT HD♛",GOL PLAY ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/350927.ts
+#EXTINF:-1 tvg-id="GOL HD" tvg-name="GOL PLAY ᴿ" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="♛TDT HD♛",GOL PLAY ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615895.ts
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Nova.png" group-title="♛TDT HD♛",NOVA ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4759.ts
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Nova.png" group-title="♛TDT HD♛",NOVA ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615896.ts
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Energy.png" group-title="♛TDT HD♛",ENERGY ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4760.ts
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Energy.png" group-title="♛TDT HD♛",ENERGY ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615897.ts
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/dkiss.png" group-title="♛TDT HD♛",DKISS ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4761.ts
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/dkiss.png" group-title="♛TDT HD♛",DKISS ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615898.ts
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/trece.png" group-title="♛TDT HD♛",TRECE TV ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4762.ts
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/trece.png" group-title="♛TDT HD♛",TRECE TV ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615899.ts
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/paramount_network.png" group-title="♛TDT HD♛",PARAMOUNT ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4763.ts
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/paramount_network.png" group-title="♛TDT HD♛",PARAMOUNT ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615900.ts
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-name="DMAX ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/dmax.png" group-title="♛TDT HD♛",DMAX ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4765.ts
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="DMAX ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/dmax.png" group-title="♛TDT HD♛",DMAX ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615901.ts
+#EXTINF:-1 tvg-id="ten.es" tvg-name="TENᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/ten.png" group-title="♛TDT HD♛",TENᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4766.ts
+#EXTINF:-1 tvg-id="ten.es" tvg-name="TEN ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/ten.png" group-title="♛TDT HD♛",TEN ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615902.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="A3SERIES ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/Atreseries_HD.png" group-title="♛TDT HD♛",A3SERIES ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/350648.ts
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="A3SERIES ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/TDT/Atreseries_HD.png" group-title="♛TDT HD♛",A3SERIES ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615903.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV ᴿ" tvg-logo="https://www.negocios.com/wp-content/uploads/2021/05/td_696x0.png" group-title="♛TDT HD♛",NEGOCIOS TV ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624835.ts
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="TVE 24H ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/24H.png" group-title="♛TDT HD♛",TVE 24H ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4767.ts
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="TVE 24H ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/24H.png" group-title="♛TDT HD♛",TVE 24H ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615904.ts
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Divinity.png" group-title="♛TDT HD♛",DIVINITY ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/4768.ts
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="DIVINITY ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Divinity.png" group-title="♛TDT HD♛",DIVINITY ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/615905.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆SERIES HD☆♛♛" tvg-logo="https://www.mistercomparador.com/noticias/wp-content/uploads/2019/05/movistar-series.jpg" group-title="♛SERIES Y CINE♛",♛♛☆SERIES HD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2704.ts
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M+ SERIES ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Series.png" group-title="♛SERIES Y CINE♛",M+ SERIES ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2705.ts
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M+ SERIES ᴴᵉᵛᶜ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Series.png" group-title="♛SERIES Y CINE♛",M+ SERIES ᴴᵉᵛᶜ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621377.ts
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M+ SERIES 2 ᵉˢᵖ ʰᵈ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Series2.png" group-title="♛SERIES Y CINE♛",M+ SERIES 2 ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2706.ts
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M+ SERIES 2 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Series2.png" group-title="♛SERIES Y CINE♛",M+ SERIES 2 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621378.ts
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="M+ LA RESISTENCIA ᵉˢᵖ ʰᵈ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/LaResistencia.png" group-title="♛SERIES Y CINE♛",M+ LA RESISTENCIA ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194376.ts
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="M+ LA RESISTENCIA ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/LaResistencia.png" group-title="♛SERIES Y CINE♛",M+ LA RESISTENCIA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621389.ts
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/FOX.png" group-title="♛SERIES Y CINE♛",FOX ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2707.ts
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/FOX.png" group-title="♛SERIES Y CINE♛",FOX ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621379.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/AXN.png" group-title="♛SERIES Y CINE♛",AXN ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2708.ts
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="AXN ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/AXN.png" group-title="♛SERIES Y CINE♛",AXN ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621380.ts
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/tnthd.png" group-title="♛SERIES Y CINE♛",TNT ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2709.ts
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/tnthd.png" group-title="♛SERIES Y CINE♛",TNT ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621381.ts
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/comedyhd.png" group-title="♛SERIES Y CINE♛",COMEDY CENTRAL ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2710.ts
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/comedyhd.png" group-title="♛SERIES Y CINE♛",COMEDY CENTRAL ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621382.ts
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Calle13.png" group-title="♛SERIES Y CINE♛",CALLE 13 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2711.ts
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Calle13.png" group-title="♛SERIES Y CINE♛",CALLE 13 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621383.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/amchd.png" group-title="♛SERIES Y CINE♛",AMC ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2712.ts
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/amchd.png" group-title="♛SERIES Y CINE♛",AMC ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621384.ts
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/cosmohd.png" group-title="♛SERIES Y CINE♛",COSMO ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2713.ts
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/cosmohd.png" group-title="♛SERIES Y CINE♛",COSMO ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621385.ts
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/axnwhd.png" group-title="♛SERIES Y CINE♛",AXN WHITE ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2715.ts
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/axnwhd.png" group-title="♛SERIES Y CINE♛",AXN WHITE ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621386.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆CINE HD☆♛♛" tvg-logo="https://www.movistar.es/estaticos/imagenes/fichas-producto/disney/cine.png" group-title="♛SERIES Y CINE♛",♛♛☆CINE HD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/42254.ts
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Estrenos.png" group-title="♛SERIES Y CINE♛",M+ ESTRENOS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2718.ts
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Estrenos.png" group-title="♛SERIES Y CINE♛",M+ ESTRENOS ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621390.ts
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 ᵉˢᵖ ʰᵈ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Estrenos2.png" group-title="♛SERIES Y CINE♛",M+ ESTRENOS 2 ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/173724.ts
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 ᴴᵉᵛᶜ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Estrenos2.png" group-title="♛SERIES Y CINE♛",M+ ESTRENOS 2 ᴴᵉᵛᶜ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621391.ts
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Accion.png" group-title="♛SERIES Y CINE♛",M+ ACCION ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2720.ts
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Accion.png" group-title="♛SERIES Y CINE♛",M+ ACCION ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621392.ts
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Comedia.png" group-title="♛SERIES Y CINE♛",M+ COMEDIA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2723.ts
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Comedia.png" group-title="♛SERIES Y CINE♛",M+ COMEDIA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621393.ts
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Drama.png" group-title="♛SERIES Y CINE♛",M+ DRAMA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2724.ts
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Drama.png" group-title="♛SERIES Y CINE♛",M+ DRAMA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621394.ts
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="M+ CINE Ñ ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/CineEspanol.png" group-title="♛SERIES Y CINE♛",M+ CINE Ñ ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2725.ts
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="M+ CINE Ñ ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/CineEspanol.png" group-title="♛SERIES Y CINE♛",M+ CINE Ñ ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621395.ts
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M+ CLASICOS ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Clasicos.png" group-title="♛SERIES Y CINE♛",M+ CLASICOS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/191350.ts
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M+ CLASICOS ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Clasicos.png" group-title="♛SERIES Y CINE♛",M+ CLASICOS ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621401.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/tcmhd.png" group-title="♛SERIES Y CINE♛",TCM ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2726.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/tcmhd.png" group-title="♛SERIES Y CINE♛",TCM ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621396.ts
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/syfyhd.png" group-title="♛SERIES Y CINE♛",SYFY ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2716.ts
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/syfyhd.png" group-title="♛SERIES Y CINE♛",SYFY ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621387.ts
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/0.png" group-title="♛SERIES Y CINE♛",#0ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2717.ts
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/0.png" group-title="♛SERIES Y CINE♛",#0 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621388.ts
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MY TIME ᵉˢᵖ ʰᵈ  " tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png" group-title="♛SERIES Y CINE♛",MY TIME ᵉˢᵖ ʰᵈ  
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/339454.ts
+#EXTINF:-1 tvg-id="M+ Fest" tvg-name="MY TIME ᴴᵉᵛᶜ" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png" group-title="♛SERIES Y CINE♛",MY TIME ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621402.ts
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD ᵉˢᵖ ʰᵈ" tvg-logo="http://picons.dyndns.tv/picons/Hollywood.es.png" group-title="♛SERIES Y CINE♛",HOLLYWOOD ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2727.ts
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD ᴴᵉᵛᶜ" tvg-logo="http://picons.dyndns.tv/picons/Hollywood.es.png" group-title="♛SERIES Y CINE♛",HOLLYWOOD ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621397.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/xtrm.png" group-title="♛SERIES Y CINE♛",XTRM ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2730.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/xtrm.png" group-title="♛SERIES Y CINE♛",XTRM ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621398.ts
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/somos.png" group-title="♛SERIES Y CINE♛",SOMOS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352035.ts
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/somos.png" group-title="♛SERIES Y CINE♛",SOMOS ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621400.ts
+#EXTINF:-1 tvg-id="M+ Fest" tvg-name="CINE FEEL GOOD ᵉˢᵖ ʰᵈ " tvg-logo="https://madrid.cines-verdi.com/storage/app/media/feelgoodtv1.jpg" group-title="♛SERIES Y CINE♛",CINE FEEL GOOD ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/397064.ts
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="CINE FEEL GOOD ᴴᵉᵛᶜ" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=57421c&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fcinefeelgood.png" group-title="♛SERIES Y CINE♛",CINE FEEL GOOD ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621403.ts
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/sundancesd.png" group-title="♛SERIES Y CINE♛",SUNDANCE TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621432.ts
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/sundancesd.png" group-title="♛SERIES Y CINE♛",SUNDANCE TV ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621431.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆SERIES SD☆♛♛" tvg-logo="" group-title="♛SERIES Y CINE♛",♛♛☆SERIES SD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194347.ts
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M+ SERIES ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Series.png" group-title="♛SERIES Y CINE♛",M+ SERIES ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194348.ts
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M+ SERIES ᴿ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Series.png" group-title="♛SERIES Y CINE♛",M+ SERIES ᴿ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621404.ts
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M+ SERIES 2 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Series2.png" group-title="♛SERIES Y CINE♛",M+ SERIES 2 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194349.ts
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name=" M+ SERIES 2 ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Series2.png" group-title="♛SERIES Y CINE♛", M+ SERIES 2 ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621405.ts
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/FOX.png" group-title="♛SERIES Y CINE♛",FOX ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194350.ts
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/FOX.png" group-title="♛SERIES Y CINE♛",FOX ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621406.ts
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/axnsd.png" group-title="♛SERIES Y CINE♛",AXN ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194351.ts
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/AXN.png" group-title="♛SERIES Y CINE♛",AXN ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621407.ts
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/tntsd.png" group-title="♛SERIES Y CINE♛",TNT ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194352.ts
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/tntsd.png" group-title="♛SERIES Y CINE♛",TNT ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621408.ts
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/comedysd.png" group-title="♛SERIES Y CINE♛",COMEDY CENTRAL ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194353.ts
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDY CENTRAL ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/comedyhd.png" group-title="♛SERIES Y CINE♛",COMEDY CENTRAL ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621409.ts
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/calle13sd.png" group-title="♛SERIES Y CINE♛",CALLE 13 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194354.ts
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/calle13sd.png" group-title="♛SERIES Y CINE♛",CALLE 13 ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621420.ts
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/amc.png" group-title="♛SERIES Y CINE♛",AMC ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194355.ts
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/amc.png" group-title="♛SERIES Y CINE♛",AMC ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621410.ts
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/cosmosd.png" group-title="♛SERIES Y CINE♛",COSMO ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194356.ts
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/cosmosd.png" group-title="♛SERIES Y CINE♛",COSMO ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621411.ts
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/axnwsd.png" group-title="♛SERIES Y CINE♛",AXN WHITE ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194358.ts
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/axnwsd.png" group-title="♛SERIES Y CINE♛",AXN WHITE ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621412.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆CINE SD☆♛♛" tvg-logo="" group-title="♛SERIES Y CINE♛",♛♛☆CINE SD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194359.ts
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Estrenos.png" group-title="♛SERIES Y CINE♛",M+ ESTRENOS ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194360.ts
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M+ ESTRENOS ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Estrenos.png" group-title="♛SERIES Y CINE♛",M+ ESTRENOS ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621421.ts
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Estrenos2.png" group-title="♛SERIES Y CINE♛",M+ ESTRENOS 2 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621424.ts
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="M+ ESTRENOS 2 ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Estrenos2.png" group-title="♛SERIES Y CINE♛",M+ ESTRENOS 2 ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621422.ts
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Accion.png" group-title="♛SERIES Y CINE♛",M+ ACCION ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194362.ts
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M+ ACCION ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Accion.png" group-title="♛SERIES Y CINE♛",M+ ACCION ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621425.ts
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Comedia.png" group-title="♛SERIES Y CINE♛",M+ COMEDIA ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194363.ts
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M+ COMEDIA ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Comedia.png" group-title="♛SERIES Y CINE♛",M+ COMEDIA ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621423.ts
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Drama.png" group-title="♛SERIES Y CINE♛",M+ DRAMA ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194365.ts
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M+ DRAMA ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Drama.png" group-title="♛SERIES Y CINE♛",M+ DRAMA ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621426.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM ᵉˢᵖ ˢᵈ" tvg-logo="https://canaltcm.com/wp-content/uploads/2019/04/tcm-icon.png" group-title="♛SERIES Y CINE♛",TCM ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194368.ts
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM ᴿ" tvg-logo="https://canaltcm.com/wp-content/uploads/2019/04/tcm-icon.png" group-title="♛SERIES Y CINE♛",TCM ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621427.ts
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/syfysd.png" group-title="♛SERIES Y CINE♛",SYFY ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194369.ts
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/syfysd.png" group-title="♛SERIES Y CINE♛",SYFY ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621428.ts
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/0.png" group-title="♛SERIES Y CINE♛",#0 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194370.ts
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/0.png" group-title="♛SERIES Y CINE♛",#0 ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621429.ts
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD ᵉˢᵖ ˢᵈ" tvg-logo="http://picons.dyndns.tv/picons/Hollywood.es.png" group-title="♛SERIES Y CINE♛",HOLLYWOOD ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194371.ts
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="HOLLYWOOD ᴿ" tvg-logo="http://picons.dyndns.tv/picons/Hollywood.es.png" group-title="♛SERIES Y CINE♛",HOLLYWOOD ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621430.ts
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV ᵉˢᵖ ˢᵈ " tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/sundancesd.png" group-title="♛SERIES Y CINE♛",SUNDANCE TV ᵉˢᵖ ˢᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194372.ts
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/sundancesd.png" group-title="♛SERIES Y CINE♛",SUNDANCE TV ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621433.ts
+#EXTINF:-1 tvg-id="Dark" tvg-name="DARK ᵉˢᵖ ˢᵈ " tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/dark.png" group-title="♛SERIES Y CINE♛",DARK ᵉˢᵖ ˢᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194373.ts
+#EXTINF:-1 tvg-id="Dark" tvg-name="DARK ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/dark.png" group-title="♛SERIES Y CINE♛",DARK ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621399.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM ᵉˢᵖ ˢᵈ " tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/xtrm.png" group-title="♛SERIES Y CINE♛",XTRM ᵉˢᵖ ˢᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194374.ts
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM ᴿ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/xtrm.png" group-title="♛SERIES Y CINE♛",XTRM ᴿ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/621435.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆CINE EXTRA☆♛♛" tvg-logo="" group-title="♛SERIES Y CINE♛",♛♛☆CINE EXTRA☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/351195.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TELENOVELAS ᵉˢᵖ ʰᵈ" tvg-logo="https://novatio.es/wp-content/uploads/2021/02/globaltelenovelas.png" group-title="♛SERIES Y CINE♛",GLOBAL TELENOVELAS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624102.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL DRAMA ᵉˢᵖ ʰᵈ" tvg-logo="https://www.kanalddrama.com/assets/img/logo_bottom2.png" group-title="♛SERIES Y CINE♛",KANAL DRAMA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624103.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLN NOVELAS ᵉˢᵖ ʰᵈ" tvg-logo="data:image/png;base64,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" group-title="♛SERIES Y CINE♛",TLN NOVELAS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624104.ts
+#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TL ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/5169px-Univision_tlnovelas_%282019%29.svg.png" group-title="♛SERIES Y CINE♛",UNIVISION TL ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624105.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN TELENOVELAS ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/1200px-RCN_Novelas_logo.svg.png" group-title="♛SERIES Y CINE♛",RCN TELENOVELAS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624106.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALAVISION ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="♛SERIES Y CINE♛",GALAVISION ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624108.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="♛SERIES Y CINE♛",PASIONES ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624112.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆M+LALIGA HD☆♛♛" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2019/07/MovistarLaLiga1024.png" group-title="♛M+ DEPORTES♛",♛♛☆M+LALIGA HD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2732.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ  eXo" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga.png" group-title="♛M+ DEPORTES♛",M+ LALIGA ᵉˢᵖ ʰᵈ  eXo
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/183028.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga.png" group-title="♛M+ DEPORTES♛",M+ LALIGA ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2735.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA ᵉˢᵖ ʰᵈ (H.265)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga.png" group-title="♛M+ DEPORTES♛",M+ LALIGA ᵉˢᵖ ʰᵈ (H.265)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/183434.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA HD (LOW)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga.png" group-title="♛M+ DEPORTES♛",M+ LALIGA HD (LOW)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/393182.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LA LIGA (LOW) H.265" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga.png" group-title="♛M+ DEPORTES♛",M+ LA LIGA (LOW) H.265
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/393183.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="SKY SPORT LALIGA ᵉˢᵖ ʰᵈ " tvg-logo="https://sky.shorthandstories.com/la-liga-story-so-far/assets/logo.png" group-title="♛M+ DEPORTES♛",SKY SPORT LALIGA ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414887.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORT LALIGA ᴴᵉᵛᶜ" tvg-logo="https://sky.shorthandstories.com/la-liga-story-so-far/assets/logo.png" group-title="♛M+ DEPORTES♛",SKY SPORT LALIGA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624131.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="M+ LALIGA 2 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga2.png" group-title="♛M+ DEPORTES♛",M+ LALIGA 2 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194667.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 2 ᴴᵉᵛᶜ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga2.png" group-title="♛M+ DEPORTES♛",M+ LALIGA 2 ᴴᵉᵛᶜ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624130.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 3 HD" tvg-name="M+ LALIGA 3 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga3.png" group-title="♛M+ DEPORTES♛",M+ LALIGA 3 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2742.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 3 HD" tvg-name="M+ LALIGA 3 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga3.png" group-title="♛M+ DEPORTES♛",M+ LALIGA 3 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194668.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 4" tvg-name="M+ LALIGA 4 ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/800px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="♛M+ DEPORTES♛",M+ LALIGA 4 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624133.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 4" tvg-name="M+ LALIGA 4 ᴴᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/800px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="♛M+ DEPORTES♛",M+ LALIGA 4 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624132.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛LALIGATV BAR HD☆♛♛" tvg-logo="data:image/png;base64,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" group-title="♛M+ DEPORTES♛",♛♛LALIGATV BAR HD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/28436.ts
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LALIGA TV BAR  ᵉˢᵖ ʰᵈ" tvg-logo="data:image/png;base64,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" group-title="♛M+ DEPORTES♛",LALIGA TV BAR  ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/283246.ts
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LALIGA TV BAR ᴴᵉᵛᶜ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlpbvlxOC8kg6gQlHbVE41KkaFxGP1FjxznVjumPNPiETFb3bQGlkl6U-fqI8lXfhz74&usqp=CAU" group-title="♛M+ DEPORTES♛",LALIGA TV BAR ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/626125.ts
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LALIGA TV BAR (5MB)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlpbvlxOC8kg6gQlHbVE41KkaFxGP1FjxznVjumPNPiETFb3bQGlkl6U-fqI8lXfhz74&usqp=CAU" group-title="♛M+ DEPORTES♛",LALIGA TV BAR (5MB)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/626126.ts
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LALIGA TV BAR ˢᵈ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlpbvlxOC8kg6gQlHbVE41KkaFxGP1FjxznVjumPNPiETFb3bQGlkl6U-fqI8lXfhz74&usqp=CAU" group-title="♛M+ DEPORTES♛",LALIGA TV BAR ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/28406.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆M+LCAMPEONES HD☆♛♛" tvg-logo="https://i.blogs.es/3316aa/movistar/450_1000.jpg" group-title="♛M+ DEPORTES♛",♛♛☆M+LCAMPEONES HD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2749.ts
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ LCAMPEONES ᵉˢᵖ ʰᵈ eXo" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES ᵉˢᵖ ʰᵈ eXo
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2751.ts
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ LCAMPEONES ᵉˢᵖ ʰᵈ (H265)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES ᵉˢᵖ ʰᵈ (H265)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414943.ts
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (LOW)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/284771.ts
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (FIBRA)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES  ᵉˢᵖ ʰᵈ (FIBRA)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/391739.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="M+ LCAMPEONES 2 ᵉˢᵖ ʰᵈ (eXo)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones2.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 2 ᵉˢᵖ ʰᵈ (eXo)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2754.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="M+ LCAMPEONES 2 ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones2.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 2 ᵉˢᵖ ʰᵈ (LOW)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/502478.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="M+ LCAMPEONES 3 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones3.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 3 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194680.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="M+ LCAMPEONES 3 ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones3.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 3 ᵉˢᵖ ʰᵈ (LOW)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/611716.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="M+ LCAMPEONES 4 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones4.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 4 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194674.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="M+ LCAMPEONES 4 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones4.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 4 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624114.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="M+ LCAMPEONES 5 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones5.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 5 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194675.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="M+ LCAMPEONES 5 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones5.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 5 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624115.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="M+ LCAMPEONES 6 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones6.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 6 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194676.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="M+ LCAMPEONES 6 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones6.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 6 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624116.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 7 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones7.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 7 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/207372.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 7 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones7.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 7 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624117.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 8 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones8.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 8 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/422277.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON8" tvg-name="M+ LCAMPEONES 8 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones8.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 8 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624118.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 9 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones9.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 9 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/422278.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON9" tvg-name="M+ LCAMPEONES 9 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones9.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 9 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624119.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 10 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones10.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 10 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/422279.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON10" tvg-name="M+ LCAMPEONES 10 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones10.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 10 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624120.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 11 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones11.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 11 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/422280.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON11" tvg-name="M+ LCAMPEONES 11 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones11.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 11 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624121.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 12 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones12.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 12 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/422281.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON12" tvg-name="M+ LCAMPEONES 12 ᴴᵉᵛᶜ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones12.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 12 ᴴᵉᵛᶜ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624122.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 13 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones13.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 13 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/422282.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON13" tvg-name="M+ LCAMPEONES 13 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones13.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 13 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624123.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆M+DAZN HD☆♛♛" tvg-logo="https://estaticos-cdn.elperiodico.com/clip/fb77e1bf-1ff6-481f-9828-60f10f6cc7db_alta-libre-aspect-ratio_default_0.jpg" group-title="♛M+ DEPORTES♛",♛♛☆M+DAZN HD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2761.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (H265)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (H265)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414945.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (LOW)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414944.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (2MB)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA ᵉˢᵖ ʰᵈ (2MB)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414892.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M+ DAZN LALIGA ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624124.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ 5mb" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA ᵉˢᵖ ʰᵈ 5mb
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/413830.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga2.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/413832.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M+ DAZN LALIGA ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/413831.ts
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="M+ DAZN LALIGA 2 ᵉˢᵖ ʰᵈ  (2MB)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga2.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA 2 ᵉˢᵖ ʰᵈ  (2MB)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414893.ts
+#EXTINF:-1 tvg-id="DAZN LaLiga2 HD" tvg-name="M+ DAZN LALIGA 2 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNLaLiga2.png" group-title="♛M+ DEPORTES♛",M+ DAZN LALIGA 2 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/413833.ts
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="M+ DAZN 1 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN1.png" group-title="♛M+ DEPORTES♛",M+ DAZN 1 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2762.ts
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="M+ DAZN 1 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN1.png" group-title="♛M+ DEPORTES♛",M+ DAZN 1 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/350735.ts
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="M+ DAZN 2 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN2.png" group-title="♛M+ DEPORTES♛",M+ DAZN 2 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2763.ts
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="M+ DAZN 2 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN2.png" group-title="♛M+ DEPORTES♛",M+ DAZN 2 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624219.ts
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="M+ DAZN 3 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN3.png" group-title="♛M+ DEPORTES♛",M+ DAZN 3 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2764.ts
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="M+ DAZN 3 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN3.png" group-title="♛M+ DEPORTES♛",M+ DAZN 3 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624220.ts
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="M+ DAZN 4 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN4.png" group-title="♛M+ DEPORTES♛",M+ DAZN 4 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2765.ts
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="M+ DAZN 4 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN4.png" group-title="♛M+ DEPORTES♛",M+ DAZN 4 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624221.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNF1.png" group-title="♛M+ DEPORTES♛",M+ DAZN F1 ᵉˢᵖ ʰᵈ (LOW)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414946.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 ᵉˢᵖ ʰᵈ (H265)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNF1.png" group-title="♛M+ DEPORTES♛",M+ DAZN F1 ᵉˢᵖ ʰᵈ (H265)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414947.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 ᵉˢᵖ ʰᵈ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNF1.png" group-title="♛M+ DEPORTES♛",M+ DAZN F1 ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/350647.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 (H.265)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNF1.png" group-title="♛M+ DEPORTES♛",M+ DAZN F1 (H.265)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/393429.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ DAZN F1 4K" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNF1.png" group-title="♛M+ DEPORTES♛",M+ DAZN F1 4K
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624125.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆LALIGA SMARTBANK☆♛♛" tvg-logo="" group-title="♛M+ DEPORTES♛",♛♛☆LALIGA SMARTBANK☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414894.ts
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LALIGA SMARTBANK ᵉˢᵖ ʰᵈ (LOW)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK ᵉˢᵖ ʰᵈ (LOW)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414958.ts
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LALIGA SMARTBANK ᵉˢᵖ ʰᵈ (H265)" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK ᵉˢᵖ ʰᵈ (H265)
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414959.ts
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LALIGA SMARTBANK ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414940.ts
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LALIGA SMARTBANK ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414895.ts
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LALIGA SMARTBANK M1 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M1 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414896.ts
+#EXTINF:-1 tvg-id="Liga SmartBank" tvg-name="LALIGA SMARTBANK M1 ᴴᵉᵛᶜ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M1 ᴴᵉᵛᶜ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624128.ts
+#EXTINF:-1 tvg-id="Liga SmartBank 2" tvg-name="LALIGA SMARTBANK M1 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M1 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414897.ts
+#EXTINF:-1 tvg-id="Liga SmartBank 2" tvg-name="LALIGA SMARTBANK M2 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M2 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414898.ts
+#EXTINF:-1 tvg-id="LigaSmartBank2HD" tvg-name="LALIGA SMARTBANK M2 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M2 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624126.ts
+#EXTINF:-1 tvg-id="Liga SmartBank 2" tvg-name="LALIGA SMARTBANK M2 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M2 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624129.ts
+#EXTINF:-1 tvg-id="Liga SmartBank 3" tvg-name="LALIGA SMARTBANK M3 TV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M3 TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522784.ts
+#EXTINF:-1 tvg-id="Liga SmartBank 3" tvg-name="LALIGA SMARTBANK M3 ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M3 ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624127.ts
+#EXTINF:-1 tvg-id="Liga SmartBank 3" tvg-name="LALIGA SMARTBANK M3 TV ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/SmartBankTV.png" group-title="♛M+ DEPORTES♛",LALIGA SMARTBANK M3 TV ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522796.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆M+VAMOS☆♛♛" tvg-logo="https://www.momentogp.com/wp-content/uploads/2018/09/vamos.jpg" group-title="♛M+ DEPORTES♛",♛♛☆M+VAMOS☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2768.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ CRACKS ᵉˢᵖ ʰᵈ " tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MCFUT.png" group-title="♛M+ DEPORTES♛",M+ CRACKS ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/414891.ts
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Vamos.png" group-title="♛M+ DEPORTES♛",#VAMOS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194710.ts
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS OP1 ᵉˢᵖ ʰᵈ  " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Vamos.png" group-title="♛M+ DEPORTES♛",#VAMOS OP1 ᵉˢᵖ ʰᵈ  
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/348009.ts
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS HD OP2" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Vamos.png" group-title="♛M+ DEPORTES♛",#VAMOS HD OP2
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/348083.ts
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Vamos.png" group-title="♛M+ DEPORTES♛",#VAMOS ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2769.ts
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="#VAMOS ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Vamos.png" group-title="♛M+ DEPORTES♛",#VAMOS ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2770.ts
+#EXTINF:-1 tvg-id="M+ Ellas #V" tvg-name="M+ ELLAS #V ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ELLAS.png" group-title="♛M+ DEPORTES♛",M+ ELLAS #V ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/395589.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆DEPORTES EXTRA☆♛♛" tvg-logo="https://www.adslzone.net/app/uploads/2017/09/movistar-tv.jpg" group-title="♛M+ DEPORTES♛",♛♛☆DEPORTES EXTRA☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2782.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="BETISTV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/BetisTV.png" group-title="♛M+ DEPORTES♛",BETISTV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352076.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="SEVILLA TV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/sevillafctv.png" group-title="♛M+ DEPORTES♛",SEVILLA TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352074.ts
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="REAL MADRID ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/realmadridtv.png" group-title="♛M+ DEPORTES♛",REAL MADRID ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2784.ts
+#EXTINF:-1 tvg-id="BARCA TV FHD" tvg-name="BARÇA TV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/BarcaTV.png" group-title="♛M+ DEPORTES♛",BARÇA TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2783.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="FIGHT TIME ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/fighttimetv.png" group-title="♛M+ DEPORTES♛",FIGHT TIME ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352075.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="UFC FIGHT ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/ufcnetwork.png" group-title="♛M+ DEPORTES♛",UFC FIGHT ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2788.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="WWE EE.UU ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/wwe.png" group-title="♛M+ DEPORTES♛",WWE EE.UU ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2789.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ANTENA MOTOR ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/antenamotor.png" group-title="♛M+ DEPORTES♛",ANTENA MOTOR ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352073.ts
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="MotoADV Channel ᵉˢᵖ ʰᵈ" tvg-logo="https://www.motoadv.es/themes/custom/motoadv/images/logo.png" group-title="♛M+ DEPORTES♛",MotoADV Channel ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2785.ts
+#EXTINF:-1 tvg-id="Nautical Channel" tvg-name="NAUTICAL CH ᵉˢᵖ ʰᵈ" tvg-logo="https://www.nicepng.com/png/detail/165-1659870_nautical-channel-nautical-channel-hd-logo-png.png" group-title="♛M+ DEPORTES♛",NAUTICAL CH ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624134.ts
+#EXTINF:-1 tvg-id="Horse TV" tvg-name="HORSE TV ᵉˢᵖ ʰᵈ" tvg-logo="https://pbs.twimg.com/profile_images/1455462933174104069/ZAJZtvzV_400x400.jpg" group-title="♛M+ DEPORTES♛",HORSE TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624135.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="SURF CHANNEL ᵉˢᵖ ʰᵈ" tvg-logo="https://surfchanneltv.com/wp-content/uploads/2021/04/Logo-SurfChannel-Blanco-300x300.png" group-title="♛M+ DEPORTES♛",SURF CHANNEL ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352069.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="BEIN SPORT Ñ ᵉˢᵖ ʰᵈ  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="♛M+ DEPORTES♛",BEIN SPORT Ñ ᵉˢᵖ ʰᵈ  
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/349447.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPN 1 ᵉˢᵖ ʰᵈ " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="♛M+ DEPORTES♛",ESPN 1 ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624717.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPN 2 ᵉˢᵖ ʰᵈ " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="♛M+ DEPORTES♛",ESPN 2 ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624718.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPN 3 ᵉˢᵖ ʰᵈ " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="♛M+ DEPORTES♛",ESPN 3 ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624719.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPN 4 ᵉˢᵖ ʰᵈ " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="♛M+ DEPORTES♛",ESPN 4 ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624721.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPN EXTRA ᵉˢᵖ ʰᵈ " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="♛M+ DEPORTES♛",ESPN EXTRA ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/181415.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="ESPN PREMIUM ᵉˢᵖ ʰᵈ " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="♛M+ DEPORTES♛",ESPN PREMIUM ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624720.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="REDBULL ᵉˢᵖ ʰᵈ" tvg-logo="https://driftpointmedia.com/wp-content/uploads/logo-Clients-REDBull.png" group-title="♛M+ DEPORTES♛",REDBULL ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2787.ts
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="NBA TV ᵉˢᵖ ʰᵈ " tvg-logo="https://image.pngaaa.com/566/233566-middle.png" group-title="♛M+ DEPORTES♛",NBA TV ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200937.ts
+#EXTINF:-1 tvg-id="Betevé" tvg-name="U-BEAT ᵉˢᵖ ʰᵈ" tvg-logo="https://tvepg.eu/img/spain/logo/ubeat.png" group-title="♛M+ DEPORTES♛",U-BEAT ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624136.ts
+#EXTINF:-1 tvg-id="Garage TV" tvg-name="GARAJE TV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/garagetv.png" group-title="♛M+ DEPORTES♛",GARAJE TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624137.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆M+DEPORTES☆♛♛" tvg-logo="https://satcesc.com/wp-content/uploads/2017/12/Movistar-Deportes-e1513360685316.jpg" group-title="♛M+ DEPORTES♛",♛♛☆M+DEPORTES☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2771.ts
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M+ DEPORTES ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522797.ts
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M+ DEPORTES ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522785.ts
+#EXTINF:-1 tvg-id="M+DEPORTES2HD" tvg-name="M+ DEPORTES 2 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes2.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 2 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522786.ts
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-name="M+ DEPORTES 3 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes3.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 3 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522787.ts
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-name="M+ DEPORTES 3 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes3.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 3 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522788.ts
+#EXTINF:-1 tvg-id="M+DEPORTES4" tvg-name="M+ DEPORTES 4 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes4.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 4 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522789.ts
+#EXTINF:-1 tvg-id="M+DEPORTES4" tvg-name="M+ DEPORTES 4 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes4.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 4 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522790.ts
+#EXTINF:-1 tvg-id="M+DEPORTES5" tvg-name="M+ DEPORTES 5 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes5.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 5 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522791.ts
+#EXTINF:-1 tvg-id="M+DEPORTES5" tvg-name="M+ DEPORTES 5 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes5.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 5 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522792.ts
+#EXTINF:-1 tvg-id="M+DEPORTES6" tvg-name="M+ DEPORTES 6 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes6.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 6 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522793.ts
+#EXTINF:-1 tvg-id="M+DEPORTES6" tvg-name="M+ DEPORTES 6 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes6.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 6 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522794.ts
+#EXTINF:-1 tvg-id="M+DEPORTES7" tvg-name="M+ DEPORTES 7 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Deportes7.png" group-title="♛M+ DEPORTES♛",M+ DEPORTES 7 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/522795.ts
+#EXTINF:-1 tvg-id="M+ GOLF HD" tvg-name="M+ GOLF ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Golf.png" group-title="♛M+ DEPORTES♛",M+ GOLF ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2778.ts
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Eurosport1.png" group-title="♛M+ DEPORTES♛",EUROSPORT 1 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2779.ts
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Eurosport2.png" group-title="♛M+ DEPORTES♛",EUROSPORT 2
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2780.ts
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Eurosport1.png" group-title="♛M+ DEPORTES♛",EUROSPORT 1 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352064.ts
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2 ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Eurosport2.png" group-title="♛M+ DEPORTES♛",EUROSPORT 2 ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352065.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆M+LALIGA SD☆♛♛" tvg-logo="" group-title="♛M+ DEPORTES♛",♛♛☆M+LALIGA SD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194662.ts
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LALIGA ᵉˢᵖ ˢᵈ " tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga.png" group-title="♛M+ DEPORTES♛",M+ LALIGA ᵉˢᵖ ˢᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2734.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="M+ LALIGA 2 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga2.png" group-title="♛M+ DEPORTES♛",M+ LALIGA 2 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2741.ts
+#EXTINF:-1 tvg-id="M+ LaLiga 3 HD" tvg-name="M+ LALIGA 3 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Liga3.png" group-title="♛M+ DEPORTES♛",M+ LALIGA 3 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2743.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆M+LCAMPEONES SD☆♛♛" tvg-logo="" group-title="♛M+ DEPORTES♛",♛♛☆M+LCAMPEONES SD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194671.ts
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="M+ LCAMPEONES ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2750.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="M+ LCAMPEONES 2 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones2.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 2 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194682.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="M+ LCAMPEONES 3 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones3.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 3 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2755.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON4" tvg-name="M+ LCAMPEONES 4 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones4.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 4 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194683.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON5" tvg-name="M+ LCAMPEONES 5 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones5.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 5 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194684.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="M+ LCAMPEONES 6 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones6.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 6 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194685.ts
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="M+ LCAMPEONES 7 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/M.Campeones7.png" group-title="♛M+ DEPORTES♛",M+ LCAMPEONES 7 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194686.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆M+DAZN SD☆♛♛" tvg-logo="" group-title="♛M+ DEPORTES♛",♛♛☆M+DAZN SD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194688.ts
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="M+ DAZN 1 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN1.png" group-title="♛M+ DEPORTES♛",M+ DAZN 1 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194689.ts
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="M+ DAZN 2 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN2.png" group-title="♛M+ DEPORTES♛",M+ DAZN 2 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194690.ts
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="M+ DAZN 3 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN3.png" group-title="♛M+ DEPORTES♛",M+ DAZN 3 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194691.ts
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="M+ DAZN 4 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZN4.png" group-title="♛M+ DEPORTES♛",M+ DAZN 4 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194692.ts
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="M+ DAZN F1 ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/DAZNF1.png" group-title="♛M+ DEPORTES♛",M+ DAZN F1 ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2767.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆DOCUMENTALES HD☆♛♛" tvg-logo="http://www.loslunesseriefilos.com/wp-content/uploads/2020/12/un-planeta-perfecto-documental-movistar-plus.jpg" group-title="♛DOCUM Y ESTILO DE VIDA♛",♛♛☆DOCUMENTALES HD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2791.ts
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/natgeohd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",NAT GEO ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2792.ts
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/natgeohd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",NAT GEO ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624789.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NAT WILD ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/natgeowhd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",NAT WILD ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624790.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NAT WILD ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/natgeowhd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",NAT WILD ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2793.ts
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="HISTORIA ᵉˢᵖ ʰᵈ" tvg-logo="http://picons.dyndns.tv/picons/Historia.es.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HISTORIA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352038.ts
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA ᴴᵉᵛᶜ" tvg-logo="http://picons.dyndns.tv/picons/Historia.es.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HISTORIA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624791.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CH ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/discoveryhd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",DISCOVERY CH ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2796.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CH ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/discoveryhd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",DISCOVERY CH ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352079.ts
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Odisea.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",ODISEA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2798.ts
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA 4K" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Odisea.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",ODISEA 4K
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624786.ts
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/AMCBreak.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",AMC BREAK ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2800.ts
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC BREAK ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/AMCBreak.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",AMC BREAK ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/396491.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆ESTILO DE VIDA HD☆♛♛" tvg-logo="" group-title="♛DOCUM Y ESTILO DE VIDA♛",♛♛☆ESTILO DE VIDA HD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2803.ts
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="CAZA y PESCA ᵉˢᵖ ʰᵈ" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/CAZPES.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",CAZA y PESCA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2805.ts
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZA y PESCA ᴴᵉᵛᶜ" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/CAZPES.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",CAZA y PESCA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624792.ts
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="CAZAVISION ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/cazavision.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",CAZAVISION ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352071.ts
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="CAZAVISION ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/cazavision.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",CAZAVISION ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624793.ts
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA ᵉˢᵖ ʰᵈ ORIGINAL" tvg-logo="https://iberaliago.com/static/images/logo/iberalia-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",IBERALIA ᵉˢᵖ ʰᵈ ORIGINAL
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352066.ts
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA ᴴᵉᵛᶜ ORIGINAL" tvg-logo="https://iberaliago.com/static/images/logo/iberalia-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",IBERALIA ᴴᵉᵛᶜ ORIGINAL
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624794.ts
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="IBERALIA PESCA ᵉˢᵖ ʰᵈ" tvg-logo="https://iberaliago.com/static/images/logo/iberalia-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",IBERALIA PESCA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352067.ts
+#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="IBERALIA PESCA ᴴᵉᵛᶜ" tvg-logo="https://iberaliago.com/static/images/logo/iberalia-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",IBERALIA PESCA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624795.ts
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA CAZA ᵉˢᵖ ʰᵈ" tvg-logo="https://iberaliago.com/static/images/logo/iberalia-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",IBERALIA CAZA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352068.ts
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="IBERALIA CAZA ᴴᵉᵛᶜ" tvg-logo="https://iberaliago.com/static/images/logo/iberalia-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",IBERALIA CAZA ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624796.ts
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Cocina.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",CANAL COCINA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2808.ts
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA 4K" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Cocina.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",CANAL COCINA 4K
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624788.ts
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="DECASA ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Decasa.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",DECASA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352036.ts
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="DECASA 4K" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Decasa.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",DECASA 4K
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624787.ts
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/toroshd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",TOROS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2812.ts
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS ᴴᵉᵛᶜ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/toroshd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",TOROS ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/624798.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROLE TV ᵉˢᵖ ʰᵈ" tvg-logo="https://contenidostv.es/images/canales/canales-torole.jpg" group-title="♛DOCUM Y ESTILO DE VIDA♛",TOROLE TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/351844.ts
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROLE TV ᴴᵉᵛᶜ" tvg-logo="https://contenidostv.es/images/canales/canales-torole.jpg" group-title="♛DOCUM Y ESTILO DE VIDA♛",TOROLE TV ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352070.ts
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME ᵉˢᵖ ʰᵈ" tvg-logo="https://amccrime.pt/wp-content/themes/amccrime/img/logo_amccrime.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",AMC CRIME ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/396492.ts
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME ᴴᵉᵛᶜ" tvg-logo="https://amccrime.pt/wp-content/themes/amccrime/img/logo_amccrime.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",AMC CRIME ᴴᵉᵛᶜ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2814.ts
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="ES: NASA UHD" tvg-logo="https://cdn.mos.cms.futurecdn.net/rNdgsCZCeCBEC5EMBQpGLE-1200-80.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",ES: NASA UHD
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352003.ts
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ESCAPA TV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/escapatv.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",ESCAPA TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352077.ts
+#EXTINF:-1 tvg-id="betevé" tvg-name="REKT TV ᵉˢᵖ ʰᵈ" tvg-logo="https://www.seekpng.com/png/full/344-3445135_rekt-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",REKT TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352080.ts
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="MASCOTAS TV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/mascotastv.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",MASCOTAS TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352082.ts
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="DVIAJE ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/DViaje.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",DVIAJE ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352084.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="FASHION BOX ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/FashionBoxHD.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",FASHION BOX ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352083.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆MUSICA☆♛♛" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Movistar_M%C3%BAsica_logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",♛♛☆MUSICA☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2816.ts
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="MEZZO LIVE 4K" tvg-logo="http://logos.exilium.me/stuff/ESP2/MEZOHD.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",MEZZO LIVE 4K
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/285586.ts
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="MEZZO UHD" tvg-logo="https://logo-all.ru/uploads/posts/2018-09/0_mezzo_logo.jpg" group-title="♛DOCUM Y ESTILO DE VIDA♛",MEZZO UHD
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/391371.ts
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/mtves.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",ES: MTV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/285524.ts
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="ES: MTV 00s ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",ES: MTV 00s ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/285529.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="ES: SOL MUSICA ᵉˢᵖ ʰᵈ" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/1e8d9b82d2af6f6ad3633cefb73e05b2_c-sol.svg.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",ES: SOL MUSICA ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/285527.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM SPANISH ᵉˢᵖ ʰᵈ" tvg-logo="https://hqm.es/wp-content/uploads/spanish-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM SPANISH ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352048.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM POP ᵉˢᵖ ʰᵈ" tvg-logo="https://masmediatv.es/images/spsimpleportfolio/canal-hqm-pop/pop-hqm-logo_666x374.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM POP ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352049.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM ROCK ᵉˢᵖ ʰᵈ" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM ROCK ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352050.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM CLASSIC ᵉˢᵖ ʰᵈ" tvg-logo="https://hqm.es/wp-content/uploads/classic-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM CLASSIC ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352051.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM HIP HOP ᵉˢᵖ ʰᵈ" tvg-logo="https://www.hnmovil.es/wp-content/uploads/2021/02/hip-hop-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM HIP HOP ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352052.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM DANCE ᵉˢᵖ ʰᵈ" tvg-logo="https://hqm.es/wp-content/uploads/dance-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM DANCE ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352053.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM ARABIC ᵉˢᵖ ʰᵈ" tvg-logo="https://mplay.es/images/2021/arabic-hqm-logo-1.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM ARABIC ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352055.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM CHILL OUT ᵉˢᵖ ʰᵈ" tvg-logo="https://hqm.es/wp-content/uploads/chill-out-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM CHILL OUT ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352056.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM RELAX ᵉˢᵖ ʰᵈ" tvg-logo="https://masmediatv.es/images/2020/10/28/relax-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM RELAX ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352057.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM BLUES ᵉˢᵖ ʰᵈ" tvg-logo="https://hqm.es/wp-content/uploads/blues-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM BLUES ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352059.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM JAZZ ᵉˢᵖ ʰᵈ" tvg-logo="https://hqm.es/wp-content/uploads/jazz-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM JAZZ ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352060.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM REMEMBER ᵉˢᵖ ʰᵈ" tvg-logo="https://masmediatv.es/images/spsimpleportfolio/canal-hqm-remember/remember-hqm-logo_666x374.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM REMEMBER ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352061.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="URBANREVOLUTION ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/UrbanRevolutionTV.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",URBANREVOLUTION ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352063.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM HITS ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/hqmhits.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM HITS ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352044.ts
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="HQM LATIN ᵉˢᵖ ʰᵈ" tvg-logo="https://hqm.es/wp-content/uploads/latin-hqm-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HQM LATIN ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352045.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆EXTRAS☆♛♛" tvg-logo="https://www.pinclipart.com/picdir/middle/363-3639601_logo-extra-png-diario-extra-clipart.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",♛♛☆EXTRAS☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2820.ts
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/sundancesd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",SUNDANCE TV ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352081.ts
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="AZMUNDO ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/AZMundo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",AZMUNDO ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352085.ts
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="AZCLICK ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/ESPECIALES/AZClick.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",AZCLICK ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/352086.ts
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="WARNER CHANNELᵉˢᵖ ʰᵈ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",WARNER CHANNELᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2823.ts
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="D PELICULAS PLUS ᵉˢᵖ ʰᵈ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",D PELICULAS PLUS ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200881.ts
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="STUDIOS UNIVERSAL ᵉˢᵖ ʰᵈ " tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2014/10/Studio-Universal-HD.jpg" group-title="♛DOCUM Y ESTILO DE VIDA♛",STUDIOS UNIVERSAL ᵉˢᵖ ʰᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200879.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆CULTURAL☆♛♛" tvg-logo="" group-title="♛DOCUM Y ESTILO DE VIDA♛",♛♛☆CULTURAL☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200957.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY HOME & HEALTH ᵉˢᵖ ʰᵈ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Discovery_Health_2000.png/revision/latest?cb=20151004071202&path-prefix=es" group-title="♛DOCUM Y ESTILO DE VIDA♛",DISCOVERY HOME & HEALTH ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200941.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY TURBO ᵉˢᵖ ʰᵈ" tvg-logo="https://img2.freepng.es/20180619/aax/kisspng-discovery-hd-discovery-turbo-television-discovery-discovery-turbo-5b2975a31088b4.1259169415294437470677.jpg" group-title="♛DOCUM Y ESTILO DE VIDA♛",DISCOVERY TURBO ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200946.ts
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORY EN ESPANOL ᵉˢᵖ ʰᵈ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/History_en_Espa%C3%B1ol_Logo.svg/849px-History_en_Espa%C3%B1ol_Logo.svg.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HISTORY EN ESPANOL ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200948.ts
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEO ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/natgeohd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",NAT GEO ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200953.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="NAT GEO WILD ᵉˢᵖ ʰᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/natgeowhd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",NAT GEO WILD ᵉˢᵖ ʰᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/200955.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆DOCUMENTALES SD☆♛♛" tvg-logo="" group-title="♛DOCUM Y ESTILO DE VIDA♛",♛♛☆DOCUMENTALES SD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194422.ts
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEOᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/natgeosd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",NAT GEOᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194424.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT WILDᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/natgeowsd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",NAT WILDᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194425.ts
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIAᵉˢᵖ ˢᵈ " tvg-logo="http://picons.dyndns.tv/picons/Historia.es.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",HISTORIAᵉˢᵖ ˢᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2795.ts
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CH ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/discoverysd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",DISCOVERY CH ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2797.ts
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Odisea.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",ODISEA ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2799.ts
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="BREAK ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/AMCBreak.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",BREAK ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2801.ts
+#EXTINF:-1 tvg-id="" tvg-name="♛♛☆ESTILO DE VIDA SD☆♛♛" tvg-logo="" group-title="♛DOCUM Y ESTILO DE VIDA♛",♛♛☆ESTILO DE VIDA SD☆♛♛
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194423.ts
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="CAZA Y PESCAᵉˢᵖ ˢᵈ" tvg-logo="http://verporlacara.ddns.net/imagenes/espana/CAZPES.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",CAZA Y PESCAᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194434.ts
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIAᵉˢᵖ ˢᵈ" tvg-logo="https://iberaliago.com/static/images/logo/iberalia-logo.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",IBERALIAᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194437.ts
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINAᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESPNEW/Cocina.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",CANAL COCINAᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2809.ts
+#EXTINF:-1 tvg-id="TOROS" tvg-name="TOROS ᵉˢᵖ ˢᵈ" tvg-logo="http://logos.exilium.me/stuff/ESP1/iconos/toroshd.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",TOROS ᵉˢᵖ ˢᵈ
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/194438.ts
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME ᵉˢᵖ ˢᵈ " tvg-logo="https://amccrime.pt/wp-content/themes/amccrime/img/logo_amccrime.png" group-title="♛DOCUM Y ESTILO DE VIDA♛",AMC CRIME ᵉˢᵖ ˢᵈ 
+http://tuercatv2021.dynns.com:8080/live/bEU7A5uKQR/kCWPtyg6Aw/2815.ts
