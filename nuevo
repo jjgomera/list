@@ -1,0 +1,27 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", M. estrenos
+http://159.65.121.150:4542/es2019/mestrenos/chunks.m3u8?nimblesessionid=289956&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDIyIDEyOjA1OjU0IEFNJmhhc2hfdmFsdWU9Qm5zaGc5czN5T1hDZkEydlNMOHYzUT09JnZhbGlkbWludXRlcz02
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", M. Estrenos
+http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1176
+
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", M. Accion
+http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1179
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", M. Accion
+http://209.126.119.148:20102/live/bf854948466b42ca9a99c392e3c54c04/6ec202dfc0c44a029384138fa5baf248/367.m3u
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio",  M. Drama
+http://dreamsat.cc:8080/SP-SPAIN/eTXAxbMw/1183
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", M. Drama
+http://209.126.119.148:20102/live/410e100d64354405962c2f2d617812e2/6a3479a6b8c749fc93acbbffed53989e/375.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="vacio", vacio
