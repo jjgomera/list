@@ -100,7 +100,7 @@ acestream://c35d2207792128fc0ae49c40e885c463f664dbce
 acestream://87f6fbf3b63bb6bd36eea2793a0a2a647ec287dd
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 720 (Opcion 3)
-acestream://1124d4366348b76a755710c8d0d5728e39d0095c
+acestream://
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 720 (Opcion 4)
 http://127.0.0.1:6878/ace/manifest.m3u8?id=df98650743f24a245c44cdf2851e57078f4c487a
