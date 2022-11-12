@@ -196,7 +196,7 @@ acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080b
-http://127.0.0.1:6878/ace/m/154cd63dfeccb22354ff4c0caeefdc3b02909938/bf3df8a863d0811b4e81cee45256eca1.m3u8
+http://127.0.0.1:6878/ace/m/740e3dc85a14ed4c56e9a1b83938d3fcad3d178c/f913073fcef755da0358037db686f39f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 720
 acestream://9f27ea73230f9c65034601636dbfe39de43a8212
